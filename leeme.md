@@ -1,4 +1,4 @@
-## mostrando datos d edataframe de matriz
+## mostrando datos de dataframe de matriz
 
 ![alt text](image.png)
 
